@@ -4,7 +4,7 @@ AntiGravity is an AI-powered full-stack web application designed to proactively 
 
 ---
 
-## 🏗 System Architecture
+##  System Architecture
 
 The application is built with a modular, microservices-style architecture:
 
@@ -27,7 +27,7 @@ The application is built with a modular, microservices-style architecture:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - `frontend/`: React components, CSS Modules, Routing (`npm run dev`)
 - `backend/`: Express Server, Database integrations, Proxy controllers (`npm start`)
@@ -35,7 +35,7 @@ The application is built with a modular, microservices-style architecture:
 
 ---
 
-## ⚡ Getting Started Locally
+##  Getting Started Locally
 
 ### 1. Run the AI Service (Python)
 ```bash
@@ -62,7 +62,7 @@ npm run dev
 
 ---
 
-## 🌐 API Integration Examples
+##  API Integration Examples
 
 ### 1. Risk Prediction API (POST: `/api/predict`)
 Proxy to the Python AI Engine to generate risk categories.
@@ -102,7 +102,7 @@ Proxy to the Python AI Engine to generate risk categories.
 
 ---
 
-## 🚀 Future Scope & Upgrades
+##  Future Scope & Upgrades
 
 The AntiGravity architecture is designed to scale. Future updates could include:
 1. **Real-time IoT Telemetry**: Processing true live sensory data for road grip constraints and instantaneous visibility.
